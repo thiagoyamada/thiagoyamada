@@ -1,6 +1,6 @@
 ### Olá!! Eu sou o Thiago Yamada
 
-- 🔭 Hoje trabalho como fiscal de caixa 
+- 🔭 Em busca do meu primeiro emprego na área de programação
 - 👾 Experiência com HTML e CSS
 - 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: thiago.yamada312@gmail.com
