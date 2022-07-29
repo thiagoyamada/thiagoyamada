@@ -5,8 +5,8 @@
 <h2> Sobre mim </h2>
 
 - 🔭 Em busca do meu primeiro emprego na área de programação
-- 👾 Experiência com HTML e CSS
-- 🌱 Estudando JavaScript
+- 👾 Experiência com HTML, CSS e JavaScript
+- 🌱 Estudando React
 - 📫 Contate-me no e-mail: thiago.yamada312@gmail.com
 - 😄 Pronouns: ele/dele
 
