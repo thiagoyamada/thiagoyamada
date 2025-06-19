@@ -4,8 +4,8 @@
  
 <h2> Sobre mim </h2>
 
-- 🎯 Em busca de um estágio na área de tecnologia
-- 👾 Experiência com HTML, CSS, JavaScript e SQL
+- 🎯 Estagiário Front-end React
+- 👾 Experiência com HTML, CSS, JavaScript, TYPESCRIPT, SQL, REACT
 - 🌱 Estudante de Sistemas de Informação (3º semestre)
 - 🚀 Interesse em desenvolvimento web, banco de dados e suporte
 - 📫 Contate-me no e-mail: thiago.yamada312@gmail.com
