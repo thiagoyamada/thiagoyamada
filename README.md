@@ -30,7 +30,7 @@ const thiago = {
     frontend: ["React", "TypeScript", "HTML", "CSS"],
     database: ["PostgreSQL", "SQL"],
   },
-  studying: "Sistemas de Informação",
+  degree:   "Análise e Desenvolvimento de Sistemas",
   contact:  "thiago.yamada312@gmail.com",
 };
 ```
