@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:1F6FEB,100:38BDF8&text=Thiago%20Yamada&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=20"/>
 
 <a href="https://github.com/thiagoyamada">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;NestJS+%7C+React+%7C+TypeScript+%7C+Kysely;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;TypeScript+%7C+React+%7C+NestJS+%7C+Kysely;Sempre+aprendendo+e+construindo+%F0%9F%9A%80" alt="Typing SVG"/>
 </a>
 
 <br/>
