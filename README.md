@@ -26,9 +26,10 @@ const thiago = {
   role: "Full Stack Developer",
   focus: ["Desenvolvimento Web", "APIs REST", "Boas arquiteturas"],
   stack: {
-    backend:  ["NestJS", "TypeScript", "Node.js", "Kysely"],
-    frontend: ["React", "TypeScript", "HTML", "CSS"],
+    frontend: ["React", "TypeScript", "JavaScript", "Next.js", "Tailwind CSS"],
+    backend:  ["NestJS", "Node.js", "TypeScript", "Kysely"],
     database: ["PostgreSQL", "SQL"],
+    tools:    ["Git", "GitHub", "Cursor", "Insomnia"],
   },
   degree:   "Análise e Desenvolvimento de Sistemas",
   contact:  "thiago.yamada312@gmail.com",
